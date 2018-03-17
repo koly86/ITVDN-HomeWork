@@ -1,0 +1,17 @@
+E:\MyWork\CSharp\ITVDN\WPF\WPFadvanced-materials\wpf-data-binding-materials\014 Data Binding\009_DataTemplate\HomeWork2\bin\Debug\HomeWork2.exe.config
+E:\MyWork\CSharp\ITVDN\WPF\WPFadvanced-materials\wpf-data-binding-materials\014 Data Binding\009_DataTemplate\HomeWork2\bin\Debug\HomeWork2.exe
+E:\MyWork\CSharp\ITVDN\WPF\WPFadvanced-materials\wpf-data-binding-materials\014 Data Binding\009_DataTemplate\HomeWork2\bin\Debug\HomeWork2.pdb
+E:\MyWork\CSharp\ITVDN\WPF\WPFadvanced-materials\wpf-data-binding-materials\014 Data Binding\009_DataTemplate\HomeWork2\obj\Debug\HomeWork2.csprojResolveAssemblyReference.cache
+E:\MyWork\CSharp\ITVDN\WPF\WPFadvanced-materials\wpf-data-binding-materials\014 Data Binding\009_DataTemplate\HomeWork2\obj\Debug\MainWindow.g.cs
+E:\MyWork\CSharp\ITVDN\WPF\WPFadvanced-materials\wpf-data-binding-materials\014 Data Binding\009_DataTemplate\HomeWork2\obj\Debug\Window1.g.cs
+E:\MyWork\CSharp\ITVDN\WPF\WPFadvanced-materials\wpf-data-binding-materials\014 Data Binding\009_DataTemplate\HomeWork2\obj\Debug\App.g.cs
+E:\MyWork\CSharp\ITVDN\WPF\WPFadvanced-materials\wpf-data-binding-materials\014 Data Binding\009_DataTemplate\HomeWork2\obj\Debug\HomeWork2_MarkupCompile.cache
+E:\MyWork\CSharp\ITVDN\WPF\WPFadvanced-materials\wpf-data-binding-materials\014 Data Binding\009_DataTemplate\HomeWork2\obj\Debug\HomeWork2_MarkupCompile.lref
+E:\MyWork\CSharp\ITVDN\WPF\WPFadvanced-materials\wpf-data-binding-materials\014 Data Binding\009_DataTemplate\HomeWork2\obj\Debug\MainWindow.baml
+E:\MyWork\CSharp\ITVDN\WPF\WPFadvanced-materials\wpf-data-binding-materials\014 Data Binding\009_DataTemplate\HomeWork2\obj\Debug\Window1.baml
+E:\MyWork\CSharp\ITVDN\WPF\WPFadvanced-materials\wpf-data-binding-materials\014 Data Binding\009_DataTemplate\HomeWork2\obj\Debug\HomeWork2.g.resources
+E:\MyWork\CSharp\ITVDN\WPF\WPFadvanced-materials\wpf-data-binding-materials\014 Data Binding\009_DataTemplate\HomeWork2\obj\Debug\HomeWork2.Properties.Resources.resources
+E:\MyWork\CSharp\ITVDN\WPF\WPFadvanced-materials\wpf-data-binding-materials\014 Data Binding\009_DataTemplate\HomeWork2\obj\Debug\HomeWork2.csproj.GenerateResource.cache
+E:\MyWork\CSharp\ITVDN\WPF\WPFadvanced-materials\wpf-data-binding-materials\014 Data Binding\009_DataTemplate\HomeWork2\obj\Debug\HomeWork2.csproj.CoreCompileInputs.cache
+E:\MyWork\CSharp\ITVDN\WPF\WPFadvanced-materials\wpf-data-binding-materials\014 Data Binding\009_DataTemplate\HomeWork2\obj\Debug\HomeWork2.exe
+E:\MyWork\CSharp\ITVDN\WPF\WPFadvanced-materials\wpf-data-binding-materials\014 Data Binding\009_DataTemplate\HomeWork2\obj\Debug\HomeWork2.pdb

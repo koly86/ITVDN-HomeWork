@@ -1,0 +1,15 @@
+E:\MyWork\CSharp\ITVDN\WPF\WPFadvanced-materials\wpf-data-binding-materials\014 Data Binding\009_DataTemplate\HomeWork\bin\Debug\HomeWork.exe.config
+E:\MyWork\CSharp\ITVDN\WPF\WPFadvanced-materials\wpf-data-binding-materials\014 Data Binding\009_DataTemplate\HomeWork\bin\Debug\HomeWork.exe
+E:\MyWork\CSharp\ITVDN\WPF\WPFadvanced-materials\wpf-data-binding-materials\014 Data Binding\009_DataTemplate\HomeWork\bin\Debug\HomeWork.pdb
+E:\MyWork\CSharp\ITVDN\WPF\WPFadvanced-materials\wpf-data-binding-materials\014 Data Binding\009_DataTemplate\HomeWork\obj\Debug\HomeWork.csprojResolveAssemblyReference.cache
+E:\MyWork\CSharp\ITVDN\WPF\WPFadvanced-materials\wpf-data-binding-materials\014 Data Binding\009_DataTemplate\HomeWork\obj\Debug\MainWindow.g.cs
+E:\MyWork\CSharp\ITVDN\WPF\WPFadvanced-materials\wpf-data-binding-materials\014 Data Binding\009_DataTemplate\HomeWork\obj\Debug\App.g.cs
+E:\MyWork\CSharp\ITVDN\WPF\WPFadvanced-materials\wpf-data-binding-materials\014 Data Binding\009_DataTemplate\HomeWork\obj\Debug\HomeWork_MarkupCompile.cache
+E:\MyWork\CSharp\ITVDN\WPF\WPFadvanced-materials\wpf-data-binding-materials\014 Data Binding\009_DataTemplate\HomeWork\obj\Debug\HomeWork_MarkupCompile.lref
+E:\MyWork\CSharp\ITVDN\WPF\WPFadvanced-materials\wpf-data-binding-materials\014 Data Binding\009_DataTemplate\HomeWork\obj\Debug\MainWindow.baml
+E:\MyWork\CSharp\ITVDN\WPF\WPFadvanced-materials\wpf-data-binding-materials\014 Data Binding\009_DataTemplate\HomeWork\obj\Debug\HomeWork.g.resources
+E:\MyWork\CSharp\ITVDN\WPF\WPFadvanced-materials\wpf-data-binding-materials\014 Data Binding\009_DataTemplate\HomeWork\obj\Debug\HomeWork.Properties.Resources.resources
+E:\MyWork\CSharp\ITVDN\WPF\WPFadvanced-materials\wpf-data-binding-materials\014 Data Binding\009_DataTemplate\HomeWork\obj\Debug\HomeWork.csproj.GenerateResource.cache
+E:\MyWork\CSharp\ITVDN\WPF\WPFadvanced-materials\wpf-data-binding-materials\014 Data Binding\009_DataTemplate\HomeWork\obj\Debug\HomeWork.csproj.CoreCompileInputs.cache
+E:\MyWork\CSharp\ITVDN\WPF\WPFadvanced-materials\wpf-data-binding-materials\014 Data Binding\009_DataTemplate\HomeWork\obj\Debug\HomeWork.exe
+E:\MyWork\CSharp\ITVDN\WPF\WPFadvanced-materials\wpf-data-binding-materials\014 Data Binding\009_DataTemplate\HomeWork\obj\Debug\HomeWork.pdb
