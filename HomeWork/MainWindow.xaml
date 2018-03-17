@@ -7,32 +7,30 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <StackPanel>
-        <Slider Name="Slider" 
-                Margin="3" 
+        <Slider Name="Slider"
+                Margin="3"
                 Minimum="10" Maximum="50"
                 IsSnapToTickEnabled="True"
                 TickFrequency="1"
                 TickPlacement="TopLeft"
-                VerticalAlignment="Top" >
-            </Slider>
-        <TextBox 
+                VerticalAlignment="Top" />
+        <TextBox
             Margin="10"
             Name="TextBox"
-            FontSize="{Binding ElementName=Slider, Path=Value, Mode=TwoWay}">
-        </TextBox>
-        <Label 
+            FontSize="{Binding ElementName=Slider, Path=Value, Mode=TwoWay}" />
+        <Label
             Margin="10"
             Name="Label"
             FontSize="{Binding ElementName=Slider, Path=Value, Mode=TwoWay}">
-            
+
             Hello world
-            </Label>
-        <Button 
+        </Label>
+        <Button
             Margin="10"
             FontSize="{Binding ElementName=Slider, Path=Value, Mode=Default}">
             Button
-            </Button>
-        <Menu HorizontalAlignment="Left" Height="100" Margin="178,219,0,0" VerticalAlignment="Top" Width="100"/>
+        </Button>
+        <Menu HorizontalAlignment="Left" Height="100" Margin="178,219,0,0" VerticalAlignment="Top" Width="100" />
 
     </StackPanel>
 </Window>

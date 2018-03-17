@@ -1,12 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace HomeWork2.Classes
+﻿namespace HomeWork2.Classes
 {
-    class OPUBase2
+    internal class OPUBase2
     {
     }
 }

@@ -87,3 +87,18 @@ E:\MyWork\CSharp\ITVDN\WPF\WPFadvanced-materials\wpf-data-binding-materials\014 
 E:\MyWork\CSharp\ITVDN\WPF\WPFadvanced-materials\wpf-data-binding-materials\014 Data Binding\009_DataTemplate\DataTemplate\obj\x86\Debug\DataTemplate.csproj.CoreCompileInputs.cache
 E:\MyWork\CSharp\ITVDN\WPF\WPFadvanced-materials\wpf-data-binding-materials\014 Data Binding\009_DataTemplate\DataTemplate\obj\x86\Debug\DataTemplate.exe
 E:\MyWork\CSharp\ITVDN\WPF\WPFadvanced-materials\wpf-data-binding-materials\014 Data Binding\009_DataTemplate\DataTemplate\obj\x86\Debug\DataTemplate.pdb
+E:\MyWork\CSharp\WPF\ITVDN-HomeWork\DataTemplate\bin\Debug\DataTemplate.exe
+E:\MyWork\CSharp\WPF\ITVDN-HomeWork\DataTemplate\bin\Debug\DataTemplate.pdb
+E:\MyWork\CSharp\WPF\ITVDN-HomeWork\DataTemplate\obj\x86\Debug\DataTemplate.csprojResolveAssemblyReference.cache
+E:\MyWork\CSharp\WPF\ITVDN-HomeWork\DataTemplate\obj\x86\Debug\MainWindow.g.cs
+E:\MyWork\CSharp\WPF\ITVDN-HomeWork\DataTemplate\obj\x86\Debug\App.g.cs
+E:\MyWork\CSharp\WPF\ITVDN-HomeWork\DataTemplate\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+E:\MyWork\CSharp\WPF\ITVDN-HomeWork\DataTemplate\obj\x86\Debug\DataTemplate_MarkupCompile.cache
+E:\MyWork\CSharp\WPF\ITVDN-HomeWork\DataTemplate\obj\x86\Debug\DataTemplate_MarkupCompile.lref
+E:\MyWork\CSharp\WPF\ITVDN-HomeWork\DataTemplate\obj\x86\Debug\MainWindow.baml
+E:\MyWork\CSharp\WPF\ITVDN-HomeWork\DataTemplate\obj\x86\Debug\DataTemplate.g.resources
+E:\MyWork\CSharp\WPF\ITVDN-HomeWork\DataTemplate\obj\x86\Debug\DataTemplate.Properties.Resources.resources
+E:\MyWork\CSharp\WPF\ITVDN-HomeWork\DataTemplate\obj\x86\Debug\DataTemplate.csproj.GenerateResource.cache
+E:\MyWork\CSharp\WPF\ITVDN-HomeWork\DataTemplate\obj\x86\Debug\DataTemplate.csproj.CoreCompileInputs.cache
+E:\MyWork\CSharp\WPF\ITVDN-HomeWork\DataTemplate\obj\x86\Debug\DataTemplate.exe
+E:\MyWork\CSharp\WPF\ITVDN-HomeWork\DataTemplate\obj\x86\Debug\DataTemplate.pdb

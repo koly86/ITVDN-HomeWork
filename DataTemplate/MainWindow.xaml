@@ -5,40 +5,39 @@
         Title="Использование DataTemplate" Height="350" Width="525">
     <Window.Resources>
         <!--Источник данных-->
-        <local:PersonList x:Key="ListObject"></local:PersonList>
+        <local:PersonList x:Key="ListObject" />
 
         <!--Шаблон для одного элемента списка-->
         <DataTemplate x:Key="ListDataTemplate">
-            <Border BorderBrush="Black" 
-                    BorderThickness="1" 
-                    Padding="10" 
-                    HorizontalAlignment="Stretch" 
-                    CornerRadius="5" 
+            <Border BorderBrush="Black"
+                    BorderThickness="1"
+                    Padding="10"
+                    HorizontalAlignment="Stretch"
+                    CornerRadius="5"
                     Margin="5">
-                
+
                 <StackPanel>
-                    
+
                     <StackPanel Orientation="Horizontal" TextBlock.FontSize="20" TextBlock.FontWeight="Bold">
-                        <TextBlock Text="{Binding FirstName}"></TextBlock>
-                        <TextBlock Text=" "></TextBlock>
-                        <TextBlock Text="{Binding LastName}"></TextBlock>
-                        <TextBlock Text="{Binding FatherName}" ></TextBlock>
+                        <TextBlock Text="{Binding FirstName}" />
+                        <TextBlock Text=" " />
+                        <TextBlock Text="{Binding LastName}" />
+                        <TextBlock Text="{Binding FatherName}" />
                     </StackPanel>
-                    
+
                     <StackPanel>
-                        <TextBlock Text="{Binding Path=Age}"></TextBlock>
-                        <TextBlock Text="{Binding Path=Position}"></TextBlock>
+                        <TextBlock Text="{Binding Path=Age}" />
+                        <TextBlock Text="{Binding Path=Position}" />
                     </StackPanel>
-                    
+
                 </StackPanel>
             </Border>
         </DataTemplate>
-        
+
     </Window.Resources>
     <Grid>
-        <ListBox ItemsSource="{Binding Source={StaticResource ListObject}}" 
+        <ListBox ItemsSource="{Binding Source={StaticResource ListObject}}"
                  ItemTemplate="{StaticResource ListDataTemplate}"
-                 HorizontalContentAlignment="Stretch">
-        </ListBox>
+                 HorizontalContentAlignment="Stretch" />
     </Grid>
 </Window>

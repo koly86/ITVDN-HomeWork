@@ -1,28 +1,17 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows;
-using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
-using System.Windows.Input;
-using System.Windows.Media;
-using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
-using System.Windows.Shapes;
 using HomeWork2.Classes;
 
 namespace HomeWork2
 {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    ///     Interaction logic for MainWindow.xaml
     /// </summary>
     public partial class MainWindow : Window
     {
-        private OPUBase1 opuBase1 = null;
-        ConnectDB _connectDb = new ConnectDB();
+        private readonly ConnectDB _connectDb = new ConnectDB();
+        private OPUBase1 opuBase1;
+
         public MainWindow()
         {
             InitializeComponent();
@@ -33,14 +22,13 @@ namespace HomeWork2
         {
             try
             {
-                int GroupId = Convert.ToInt32(txtbGroupId.Text);
+                var GroupId = Convert.ToInt32(txtbGroupId.Text);
                 opuBase1 = _connectDb.GetGroupName(GroupId);
                 Grid.DataContext = opuBase1;
-
             }
             catch (Exception exception)
             {
-               MessageBox.Show($@"{exception}");
+                MessageBox.Show($@"{exception}");
             }
         }
     }

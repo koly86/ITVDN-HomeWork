@@ -8,12 +8,11 @@
         Title="Window1" Height="450" Width="800">
     <Grid>
         <StackPanel>
-            <ListBox Grid.Row="0" Name="ListBox">
-            </ListBox>
+            <ListBox Grid.Row="0" Name="ListBox" />
 
             <StackPanel Grid.Row="1">
 
-                <TextBlock Text="{Binding ElementName=ListOPU, Path=Selected.id}"></TextBlock>
+                <TextBlock Text="{Binding ElementName=ListOPU, Path=Selected.id}" />
 
             </StackPanel>
 

@@ -6,13 +6,11 @@
         xmlns:local="clr-namespace:HomeWork2"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid Name="Grid"  >        
-        
-        
-        
-        
+    <Grid Name="Grid">
+
+
         <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="136*"/>
+            <ColumnDefinition Width="136*" />
             <ColumnDefinition Width="367*" />
         </Grid.ColumnDefinitions>
         <Grid.RowDefinitions>
@@ -21,22 +19,21 @@
             <RowDefinition Height="40" />
             <RowDefinition Height="40" />
         </Grid.RowDefinitions>
-        <TextBox 
+        <TextBox
             Name="txtbGroupId"
             Height="20"
             Grid.Column="0"
             Grid.Row="0"
-            Margin="10">
-            </TextBox>
+            Margin="10" />
 
-        <TextBlock Name="txtblockGroupId" Grid.Column="0" Grid.Row="1" Margin="10" Text="GroupID"/>
-        <TextBlock Name="txtblockGroupName" Grid.Column="0" Grid.Row="2" Margin="10" Text="GroupName"/>
+        <TextBlock Name="txtblockGroupId" Grid.Column="0" Grid.Row="1" Margin="10" Text="GroupID" />
+        <TextBlock Name="txtblockGroupName" Grid.Column="0" Grid.Row="2" Margin="10" Text="GroupName" />
         <TextBlock Name="txtblockDivId" Grid.Column="0" Grid.Row="3" Margin="10" Text="DivId" />
 
         <TextBlock Text="{Binding GroupID}" Name="txtGroupId" Grid.Column="1" Grid.Row="1" Margin="10" />
-        <TextBlock Text="{Binding GroupName}" Name="txtGroupName" Grid.Column="1" Grid.Row="2" Margin="10"/>
+        <TextBlock Text="{Binding GroupName}" Name="txtGroupName" Grid.Column="1" Grid.Row="2" Margin="10" />
         <TextBlock Text="{Binding DivId}" Name="txtDivId" Grid.Column="1" Grid.Row="3" />
-         <Button Content="GetResult" Grid.ColumnSpan="2" Grid.Row="0" Click="ButtonBase_OnClick" Margin="10" Width="60" Height="20"/>
+        <Button Content="GetResult" Grid.ColumnSpan="2" Grid.Row="0" Click="ButtonBase_OnClick" Margin="10" Width="60"
+                Height="20" />
     </Grid>
 </Window>
-
