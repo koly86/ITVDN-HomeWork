@@ -1,0 +1,54 @@
+﻿<Window x:Class="WPFDocuments.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFDocuments"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+
+    <Grid>
+
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition />
+            <RowDefinition Height="Auto" />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+
+        <Menu>
+            <MenuItem Header="File">
+                <MenuItem Header="New" Click="MenuItem_NewOnClick" />
+                <MenuItem Header="Open" Click="MenuItem_OpenOnClick" />
+                <MenuItem Header="Save" Click="MenuItem_SaveOnClick" />
+                <Separator />
+                <MenuItem Header="Print" Click="MenuItem_PrintOnClick" />
+            </MenuItem>
+        </Menu>
+
+        <RichTextBox Name="RichTextBox" Grid.Row="1">
+            <FlowDocument>
+                <Paragraph  FontSize="20" FontWeight="Bold" TextDecorations="Underline" >
+                    Hello
+                    </Paragraph>
+                <Paragraph>
+                    Петербург занял третье место в рейтинге стремительно дорожающих городов мира, составленном Economist Intelligence Unit, аналитического подразделения The Economist. Об исследовании пишет РБК.
+
+                    Самым стремительно дорожающим в мире городом стала столица Мексики — Мехико, сказался частичный пересмотр Соглашений о свободной торговле (НАФТА), действующих между США, Мексикой и Канадой.
+
+                    Вторым по скорости роста цен на товары и услуги оказалась столица Чили Сантьяго. К этому привели рост цен на медь, которая является важнейшим экспортным ресурсом, и укрепление чилийского песо, отмечают эксперты.
+
+                    ​На третьем месте в списке самых быстро дорожающих городов мира оказался Санкт-Петербург. Жизнь в столице России в прошлом году дорожала чуть медленнее, Москва разместилась на восьмой строке. В топ-10 вошли Киев (Украина), Прага (Чехия), Белград (Сербия), Претория (ЮАР), а замыкает список Йоханнесбург (ЮАР) и Мадрид (Испания).
+
+                    Однако скорость роста цен на товары не изменила того, что в Москве все еще дороже жить, чем в Петербурге: в общем рейтинге самых дорогих городов российская столица занимает 86-е место, а Петербург — 98-ю строчку. Самым дорогим городом для жизни в мире пятый год подряд признан Сингапур. На втором месте оказался Париж — единственный из городов еврозоны, оказавшийся в топ-10.
+
+                    На позиции Москвы и Петербурга в рейтинге повлияли укрепление российского рубля, отчасти обусловленное ростом мировых цен на нефть, отмечают аналитики. Исследователи сравнивали цены более чем на 160 категорий товаров и услуг.
+                </Paragraph>
+            </FlowDocument>
+            
+        </RichTextBox>
+        <GridSplitter Grid.Row="2" Height="5" HorizontalAlignment="Stretch" VerticalAlignment="Center"/>
+        <TextBox Grid.Row="3" TextWrapping="Wrap" VerticalScrollBarVisibility="Visible" Margin="5" Name="textBox"/>
+    </Grid>
+</Window>

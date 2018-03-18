@@ -9,16 +9,16 @@
     <StackPanel Orientation="Horizontal">
         <Menu Margin="5" VerticalAlignment="Top" HorizontalAlignment="Left">
             <MenuItem Header="File">
-                <MenuItem Command="New" Header="New"></MenuItem>
-                <MenuItem Command="Open" Header="Open"></MenuItem>
-                <MenuItem Command="Save" Header="Save"></MenuItem>
+                <MenuItem Command="New" Header="New" />
+                <MenuItem Command="Open" Header="Open" />
+                <MenuItem Command="Save" Header="Save" />
             </MenuItem>
         </Menu>
-        <Menu Margin="5" VerticalAlignment="Top" >
+        <Menu Margin="5" VerticalAlignment="Top">
             <MenuItem Header="Edit">
-                <MenuItem Command="Cut" Header="Cut"></MenuItem>
-                <MenuItem Command="Copy" Header="Copy"></MenuItem>
-                <MenuItem Command="Paste" Header="Paste"></MenuItem>
+                <MenuItem Command="Cut" Header="Cut" />
+                <MenuItem Command="Copy" Header="Copy" />
+                <MenuItem Command="Paste" Header="Paste" />
             </MenuItem>
         </Menu>
 

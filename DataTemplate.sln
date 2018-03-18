@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork2", "HomeWork2\Home
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork3", "HomeWork3\HomeWork3.csproj", "{50D2B5ED-39A7-457A-AD9B-1F70449C8091}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFDocuments", "WPFDocuments\WPFDocuments.csproj", "{88F50969-AC8D-4E48-BB78-8B19448D2B3C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -49,6 +51,14 @@ Global
 		{50D2B5ED-39A7-457A-AD9B-1F70449C8091}.Release|Any CPU.Build.0 = Release|Any CPU
 		{50D2B5ED-39A7-457A-AD9B-1F70449C8091}.Release|x86.ActiveCfg = Release|Any CPU
 		{50D2B5ED-39A7-457A-AD9B-1F70449C8091}.Release|x86.Build.0 = Release|Any CPU
+		{88F50969-AC8D-4E48-BB78-8B19448D2B3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88F50969-AC8D-4E48-BB78-8B19448D2B3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88F50969-AC8D-4E48-BB78-8B19448D2B3C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{88F50969-AC8D-4E48-BB78-8B19448D2B3C}.Debug|x86.Build.0 = Debug|Any CPU
+		{88F50969-AC8D-4E48-BB78-8B19448D2B3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88F50969-AC8D-4E48-BB78-8B19448D2B3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88F50969-AC8D-4E48-BB78-8B19448D2B3C}.Release|x86.ActiveCfg = Release|Any CPU
+		{88F50969-AC8D-4E48-BB78-8B19448D2B3C}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
